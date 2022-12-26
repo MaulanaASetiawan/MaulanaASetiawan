@@ -14,7 +14,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python > A little bit | ~C#~ > not yet | Kotlin
+- 💻 &nbsp; Python > A little bit | Kotlin | | ~C#~ > not yet
 - 🌐 &nbsp; Game | Application | 
 - 🔧 &nbsp; Android Studio | Visual Studio code | Unity | Git | Sololearn |
 - 🖥 &nbsp; Blender | Corel DrawX | Adobe Photoshop |
