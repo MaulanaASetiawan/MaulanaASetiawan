@@ -5,19 +5,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Unity and C# Languange For Game Development and Kotlin for Software Development
-- 🤔 &nbsp; Curious about how to become a good Game and Software Developer.
+- 🔭 &nbsp; I’m currently learning Kotlin.
+- 🤔 &nbsp; Curious about how to become a good Software Developer.
 - 🎓 &nbsp; Studying in Informatics.
-- 🌱 &nbsp; Enthusiast about Game and Software Development .
-- ✍️ &nbsp; Playing Game > Coding > Watching Anime > Coding > Sipping Coffee > Sleep > Sleep.
-- 😴 &nbsp; Coding > Bug > Stress > Coding > Stress > Bug > Bug > Bug > Stress > Sleep. 
+- 🌱 &nbsp; Enthusiast about Software Development.
 
-<h3>🛠 Tech Stack</h3>
-
-- 💻 &nbsp; Python > A little bit | Kotlin | | ~C#~ > not yet
-- 🌐 &nbsp; Game | Application | 
-- 🔧 &nbsp; Android Studio | Visual Studio code | Unity | Git | Sololearn |
-- 🖥 &nbsp; Blender | Corel DrawX | Adobe Photoshop |
 
 <br>
 </br>
