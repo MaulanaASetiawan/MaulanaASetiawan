@@ -1,7 +1,7 @@
 
         
 <h2> Hey there! I'm Maulana. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width="350" />
+<img align="right" src="[https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif](https://cdn.discordapp.com/attachments/1106187444434514031/1106187505507774525/343cb53c87e313181d99248d3071bc77.gif)" alt="bwa" width="350" />
 
 <h3> 👨🏻‍💻 About Me </h3>
 
