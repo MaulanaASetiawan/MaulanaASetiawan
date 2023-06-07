@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭   I’m currently learning about Android.<br>🤔  Studying in Informatics.<br>🌱   Enthusiast about Software .
+🔭   I’m currently learning about Android.<br>🤔  Studying in Informatics.<br>🌱   Enthusiast about Software Development.
 
 
 ## 🌐 Socials:
