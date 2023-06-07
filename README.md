@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭   I’m currently learning about Android.<br>🤔   Curious about how to become a good Software Engineer.<br>🎓   Studying in Informatics.<br>🌱   Enthusiast about Software Engineering.
+🔭   I’m currently learning about Android.<br>🤔  Studying in Informatics.<br>🌱   Enthusiast about Software .
 
 
 ## 🌐 Socials:
