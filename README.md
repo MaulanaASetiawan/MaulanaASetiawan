@@ -28,15 +28,9 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaulanaASetiawan&layout=compact&theme=radical" alt=MaulanaASetiawan />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MaulanaASetiawan&show_icons=true&locale=en&theme=radical" alt="MaulanaASetiawan" /></p>
-
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaulanaASetiawan&theme=radical" alt="MaulanaASetiawan" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
+<p align="left">
 <a href="https://github.com/MaulanaASetiawan">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MaulanaASetiawan&theme=2077" height="180em" />
-</div>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MaulanaASetiawan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MaulanaASetiawan&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
